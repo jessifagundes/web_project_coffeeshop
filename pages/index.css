@@ -112,15 +112,7 @@
 .header__hours {
   margin-left: 80px;
 }
-.header__hours p {
-  margin: 0;
-}
-.header__hours ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-.header__address {
+.header__paragraph {
   margin: 0;
   margin-right: 80px;
 }
