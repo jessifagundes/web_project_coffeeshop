@@ -35,7 +35,7 @@
   width: fit-content;
   margin: 0 auto;
 }
-.video-item {
+.recipes__video-item {
   display: flex;
   flex-direction: column;
 }
@@ -44,7 +44,7 @@
   height: 273px;
   border: none;
 }
-.video-caption {
+.recipes__video-caption {
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   color: #ffffff;
