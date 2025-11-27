@@ -4,47 +4,17 @@ Nome do Projeto: Página da Cafeteria Triple Peaks
 
 # Tecnologias e Conceitos Utilizados
 
-Linguagens de Marcação e Estilo:
+Para desenvolver este projeto, utilizei as seguintes tecnologias:
 
-HTML5
-Estruturação semântica da página
-CSS3
-Estilização e layout da página
-Metodologias e Organização:
+- HTML5 para estruturação semântica da página;
 
-BEM (Block Element Modifier)
-Metodologia para nomenclatura de classes CSS
-Estrutura de arquivos organizada
-Separação de estilos, imagens e páginas
-Propriedades CSS Principais:
+- CSS3 para estilização e layout, em que foram utilizadas principalmente as seguintes propriedades: Flexbox para alinhamento e distribuição de elementos; Posicionamento (static, relative, absolute, fixed); Controle de camadas e sobreposição de elementos utilizando Z-index;
 
-Flexbox
-Layout flexível para alinhamento e distribuição de elementos
-CSS Grid
-Sistema de grid para layouts complexos
-Posicionamento (static, relative, absolute, fixed) - Controle preciso da posição dos elementos
-Z-index
-Controle de camadas e sobreposição de elementos
-Recursos Avançados:
+- Google Fonts: Integração de fontes personalizadas (Inter, Noto Serif); 
 
-Google Fonts
-Integração de fontes personalizadas (Inter, Noto Serif)
-Iframe
-Incorporação de vídeos do YouTube
-Formulários HTML
-Criação de formulário de reservas com validação
-Normalize.css
-Reset de estilos para compatibilidade entre navegadores
-Ferramentas de Desenvolvimento:
+- Iframe: Incorporação de vídeos do YouTube; 
 
-Git
-Controle de versão
-GitHub
-Hospedagem e colaboração de código
-VS Code
-Editor de código
-DevTools
-Depuração e inspeção de elementos
+- Formulários HTML: Criação de formulário de reservas com validação; - - - - - Normalize.css: Reset de estilos para compatibilidade entre navegadores - - - - Ferramentas de Desenvolvimento: Git (Controle de versão); GitHub (Hospedagem e colaboração de código); DevTools (Depuração e inspeção de elementos).
 
 # Planos de Melhoria:
 
