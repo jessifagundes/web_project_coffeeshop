@@ -14,7 +14,11 @@ Para desenvolver este projeto, utilizei as seguintes tecnologias:
 
 - Iframe: Incorporação de vídeos do YouTube; 
 
-- Formulários HTML: Criação de formulário de reservas com validação; - - - - - Normalize.css: Reset de estilos para compatibilidade entre navegadores - - - - Ferramentas de Desenvolvimento: Git (Controle de versão); GitHub (Hospedagem e colaboração de código); DevTools (Depuração e inspeção de elementos).
+- Formulários HTML: Criação de formulário de reservas com validação;
+
+- Normalize.css: Reset de estilos para compatibilidade entre navegadores;
+
+- Ferramentas de Desenvolvimento: Git (Controle de versão); GitHub (Hospedagem e colaboração de código); DevTools (Depuração e inspeção de elementos).
 
 # Planos de Melhoria:
 
